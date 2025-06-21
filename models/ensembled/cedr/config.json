@@ -9,12 +9,12 @@
   "hidden_dropout_prob": 0.1,
   "hidden_size": 768,
   "id2label": {
-    "0": "no_label",
-    "1": "anger",
-    "2": "fear",
-    "3": "joy",
-    "4": "sadness",
-    "5": "surprise"
+    "0": "no_emotion",
+    "1": "joy",
+    "2": "sadness",
+    "3": "surprise",
+    "4": "fear",
+    "5": "anger"
   },
   "initializer_range": 0.02,
   "intermediate_size": 3072,
